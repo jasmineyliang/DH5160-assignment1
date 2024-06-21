@@ -1,4 +1,4 @@
-# DH5160-assignment1
+# DH5160-week1
 
 As part of your assignment this week, you are required to write a reflection on how data analytics can improve health outcomes. Your reflection should be comprehensive and well-thought-out, citing examples from current health systems. To guide your reflection, please answer the following open-ended questions in your own words. Each response should be at least one paragraph long, demonstrating critical thinking and understanding of the topic.
 
